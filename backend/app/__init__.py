@@ -1,0 +1,2 @@
+"""FinGuard application package."""
+

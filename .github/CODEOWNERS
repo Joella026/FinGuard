@@ -1,0 +1,5 @@
+# Replace GitHub usernames after the team agrees on ownership.
+# /backend/app/tools/ @financial-rule-owner
+# /backend/app/models/ @backend-owner
+# /frontend/ @frontend-owner
+

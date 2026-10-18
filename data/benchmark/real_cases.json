@@ -1,0 +1,74 @@
+{
+  "cases": [
+    {
+      "case_id": "midea-2024-2025",
+      "company_code": "000333",
+      "company_name": "美的集团",
+      "reports": [
+        {
+          "year": 2024,
+          "source_path": "data/raw_reports/000333_2024_official.pdf",
+          "source_url": "https://www.midea.com.cn/content/dam/mideacn-aem/%E6%8A%95%E8%B5%84%E8%80%85%E5%85%B3%E7%B3%BB/%E6%8A%95%E8%B5%84%E8%80%85%E5%85%B3%E7%B3%BB%E6%96%87%E4%BB%B6%E6%80%BB%E8%A7%88/2024%E6%96%87%E4%BB%B6/%E7%BE%8E%E7%9A%84%E9%9B%86%E5%9B%A2-2024%E5%B9%B4%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A.PDF.coredownload.inline.pdf",
+          "sha256": "bc82a1be9e09101ed2c2772844a44b8a356c87a4dbdc0fa44a55eeeabaf94455",
+          "facts": {
+            "revenue": [407149600, "千元", 9],
+            "net_profit_parent": [38537237, "千元", 9],
+            "deducted_net_profit": [35741418, "千元", 9],
+            "operating_cashflow": [60511572, "千元", 9],
+            "accounts_receivable": [35798974, "千元", 156],
+            "inventory": [63339188, "千元", 156]
+          }
+        },
+        {
+          "year": 2025,
+          "source_path": "企业年报总结/家电与家居/白色家电/美的2025年年度报告.pdf",
+          "source_url": null,
+          "sha256": "16f95f70527db59dcf2736f276a9479cf7ee917e5f71e4f6cbbe83acbad9f4b6",
+          "facts": {
+            "revenue": [456451731, "千元", 9],
+            "net_profit_parent": [43945411, "千元", 9],
+            "deducted_net_profit": [41267233, "千元", 9],
+            "operating_cashflow": [53345930, "千元", 9],
+            "accounts_receivable": [40450097, "千元", 132],
+            "inventory": [64628834, "千元", 132]
+          }
+        }
+      ]
+    },
+    {
+      "case_id": "moutai-2024-2025",
+      "company_code": "600519",
+      "company_name": "贵州茅台",
+      "reports": [
+        {
+          "year": 2024,
+          "source_path": "data/raw_reports/600519_2024_official.pdf",
+          "source_url": "https://static.cninfo.com.cn/finalpage/2025-04-03/1222993920.PDF",
+          "sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30",
+          "facts": {
+            "revenue": [170899152276.34, "元", 5],
+            "net_profit_parent": [86228146421.62, "元", 5],
+            "deducted_net_profit": [86240905977.42, "元", 5],
+            "operating_cashflow": [92463692168.43, "元", 5],
+            "accounts_receivable": [18974192.75, "元", 59],
+            "inventory": [54343285157.47, "元", 59]
+          }
+        },
+        {
+          "year": 2025,
+          "source_path": "企业年报总结/食品饮料/白酒/600519_贵州茅台2025年年度报告.pdf",
+          "source_url": null,
+          "sha256": "474905deeaf0f875fc0a1b097a626c0c7852c427faadc5d7fc7816cbf45ea288",
+          "facts": {
+            "revenue": [168838102514.79, "元", 6],
+            "net_profit_parent": [82320067101.68, "元", 6],
+            "deducted_net_profit": [82293107655.25, "元", 6],
+            "operating_cashflow": [61522204989.35, "元", 6],
+            "accounts_receivable": [2609048.49, "元", 57],
+            "inventory": [61427421796.18, "元", 57]
+          }
+        }
+      ]
+    }
+  ]
+}
